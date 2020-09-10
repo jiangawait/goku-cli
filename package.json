@@ -1,7 +1,7 @@
 {
   "name": "goku-cli",
   "version": "1.0.0",
-  "description": "脚手架",
+  "description": "一个通用的前端脚手架工具",
   "main": "index.js",
   "bin": {
     "goku": "./bin/www"
